@@ -4,7 +4,6 @@
 
 [![Open in CodePen](https://img.shields.io/badge/CodePen-Open%20in%20CodePen-blue?logo=codepen)](https://codepen.io/gabrielvoliveira/pen/NWEzXXL)
 
-![Demo](https://your-image-url-here)
 
 ## Description
 
@@ -40,8 +39,4 @@ git clone https://github.com/your-username/your-repo.git
 
 ## Credits
 
-This project was created by [Your Name](https://github.com/your-username).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project was created by [Gabriel Oliveira](https://github.com/gabrielv-oliveira).
