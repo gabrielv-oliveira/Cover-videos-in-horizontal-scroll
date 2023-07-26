@@ -22,7 +22,7 @@ You can view the live demo of this project on CodePen by clicking the following 
 1. Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/gabrielv-oliveira/cover-videos-in-horizontal-scroll.git
 ```
 
 2. Open the `index.html` file in your web browser.
